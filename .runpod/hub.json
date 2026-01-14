@@ -6,7 +6,7 @@
   "iconUrl": "https://huggingface.co/front/thumbnails/qwen.png",
   "config": {
     "runsOn": "GPU",
-    "containerDiskInGb": 30,
+    "containerDiskInGb": 40,
     "gpuCount": 1,
     "gpuIds": "RTX A4000,-NVIDIA RTX 4090",
     "allowedCudaVersions": ["12.8", "12.7", "12.6", "12.5", "12.4", "12.3"],
