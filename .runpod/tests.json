@@ -15,7 +15,7 @@
     "env": [
       {
         "key": "HF_MODEL",
-        "value": "Qwen/Qwen-Image-Edit-2509"
+        "value": "Qwen/Qwen-Image-Edit-2511"
       }
     ],
     "allowedCudaVersions": [

@@ -1,6 +1,6 @@
 {
   "title": "Qwen Image Edit",
-  "description": "A Runpod serverless deployment for Qwen/Qwen-Image-Edit-2509 to edit images based on text prompts.",
+  "description": "A Runpod serverless deployment for Qwen/Qwen-Image-Edit-2511 to edit images based on text prompts.",
   "type": "serverless",
   "category": "image",
   "iconUrl": "https://huggingface.co/front/thumbnails/qwen.png",
@@ -17,7 +17,7 @@
           "type": "huggingface",
           "name": "Hugging Face Model",
           "description": "Model organization/name as listed on Hugging Face Hub",
-          "default": "Qwen/Qwen-Image-Edit-2509",
+          "default": "Qwen/Qwen-Image-Edit-2511",
           "required": true
         }
       },
@@ -43,7 +43,7 @@
       {
         "name": "Standard",
         "defaults": {
-          "HF_MODEL": "Qwen/Qwen-Image-Edit-2509",
+          "HF_MODEL": "Qwen/Qwen-Image-Edit-2511",
           "PRECISION": "fp16"
         }
       }

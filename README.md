@@ -2,7 +2,7 @@
 qwen-image-edit-runpod
 # Qwen Image Edit on Runpod Hub
 
-Deploy the **Qwen/Qwen-Image-Edit-2509** model as a serverless image editing tool on Runpod Hub.
+Deploy the **Qwen/Qwen-Image-Edit-2511** model as a serverless image editing tool on Runpod Hub.
 
 ### 🔧 Usage
 
