@@ -35,7 +35,7 @@
             {"label": "FP16", "value": "fp16"},
             {"label": "FP32", "value": "fp32"}
           ],
-          "default": "fp16"
+          "default": "fp32"
         }
       }
     ],
@@ -44,7 +44,7 @@
         "name": "Standard",
         "defaults": {
           "HF_MODEL": "Qwen/Qwen-Image-Edit-2511",
-          "PRECISION": "fp16"
+          "PRECISION": "fp32"
         }
       }
     ]

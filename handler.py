@@ -8,7 +8,7 @@ from PIL import Image
 
 # Load model on startup
 pipe = DiffusionPipeline.from_pretrained(
-    "Qwen/Qwen-Image-Edit-2511", torch_dtype=torch.float16
+    "Qwen/Qwen-Image-Edit-2511", torch_dtype=torch.float32
 ).to("cuda")
 
 def handler(event):
